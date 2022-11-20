@@ -2,10 +2,13 @@
 Practical work on the subject Structures and data processing algorithms
 
 ## Practice №1. Bitwise operations and their application.
+Target. Gaining skills in applying bitwise operations in algorithms.
 
 ## Practice №2 External data structures: text and binary files.
+Target. Gain skills in using C++ file streams to manage text and binary files.
 
 ## Practice №3 Using a hash table to look up data in a binary file with fixed-length records.
+Target. Get skills in designing hash tables and applying them when searching for data in other data structures (files).
 
 ## Practice №4 Nonlinear data structures. binary tree.
 Target. Obtaining skills and abilities to develop and implement operations on a binary tree data structure.
