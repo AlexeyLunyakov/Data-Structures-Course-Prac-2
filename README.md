@@ -14,7 +14,7 @@ Target. Get skills in designing hash tables and applying them when searching for
 ####  *Practice №4 Nonlinear data structures. binary tree.*
 Target. Obtaining skills and abilities to develop and implement operations on a binary tree data structure.
 
-####  *Practice №5 Balanced Search Trees (BSS) and their application for searching data in a file.*
+####  *Practice №5 Balanced Search Trees (BST) and their application for searching data in a file.*
 Target:
  * gain skills in the development and implementation of algorithms for managing a binary search tree and balanced binary search trees (AVL - trees);
  * gain skills in using file streams for direct access to file data;
