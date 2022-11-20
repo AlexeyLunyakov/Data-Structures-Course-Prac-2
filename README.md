@@ -1,4 +1,4 @@
-# siaod_pract_mirea
+# SiAOD Practices
 Practical work on the subject Structures and data processing algorithms
   
 ## Practical work: 
