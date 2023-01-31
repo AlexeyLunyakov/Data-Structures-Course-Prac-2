@@ -26,3 +26,7 @@ Target. Obtaining practical skills in performing operations on the graph data st
 
 #### *[Practice №7](https://github.com/AlexeyLunyakov/siaod_pract_mirea/tree/main/siaod_7) Encoding and data compression by lossless methods.*
 Target. Obtaining practical skills and knowledge on the implementation of data compression by the considered methods.
+
+
+#### *[Practice №8](https://github.com/AlexeyLunyakov/siaod_pract_mirea/tree/main/siaod_8) Algorithmic strategies or methods for developing algorithms. Enumeration and methods of its reduction.*
+Target. Get skills in applying methods that reduce the number of enumerations in problems that can only be solved by enumeration of all possible solutions.
